@@ -4,7 +4,7 @@
 //
 //  Created by Milan Nankov on 10/7/14.
 //  Copyright (c) 2014 myOrg. All rights reserved.
-//
+// https://www.newventuresoftware.com/blog/organizing-xcode-projects-using-multiple-storyboards
 
 import UIKit
 
